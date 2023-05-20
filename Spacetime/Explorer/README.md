@@ -10,9 +10,9 @@ NLW - Spacetime é um projeto Web Responsivo de uma cápsula do tempo para exibi
 
 ## Tecnologias
 
-HTML 
+*HTML* 
     <img src=".github/html.svg" alt="Ícone do HTML"> 
 
-CSS
+*CSS*
     <img src=".github/css.svg" alt="Ícone do CSS"> 
 
